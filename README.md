@@ -48,17 +48,17 @@ Zagadnienia wg. wymagań umieszczonych na stronach 110 - 114 książki ["Tom 6 E
 
 ## Wykaz plików
 
-| Nazwa folderu                                         | Zagadnienie                                                                           |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------|
-| [ *1_liczby_pierwsze/czypierwsza.py* ](1_liczby_pierwsze/czypierwsza.py)                      | Sprawdzanie czy liczba jest liczbą pierwszą   |
-| *2_liczby_doskonale/czydoskonala.py*                  | Sprawdzanie czy liczba jest liczbą doskonałą                                          |
-| *3_roklad_na_czynniki/rozkl.py*                       | Rozkład liczby na czynniki pierwsze                                          			|
-| *4_algorytm_euklidesa/iteracyjnie/euklidit.py*        | Algorytm euklidesa iteracyjnie                                                        |
-| *4_algorytm_euklidesa/rekurencyjnie/euklidrek.py*     | Algorytm euklidesa rekurencyjnie                                                      |
-| *5_ciag_fibbonaciego/iteracyjnie/fiboit.py*			| Ciąg fibbonaciego iteracyjnie															|
-| *5_ciag_fibbonaciego/rekurencyjnie/fiborek.py*		| Ciąg fibbonaciego iteracyjnie															|
-| *6_wydawanie_reszty/reszta.py*						| Wydawanie reszty metodą zachłanną														|
-| *funkcja_eulera/euler.py*								| Dodatek: Implementacja funcji eulera, element algorytmu RSA							|
+| Nazwa folderu                                         													| Zagadnienie                         													|
+| ----------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------|
+| [ *1_liczby_pierwsze/czypierwsza.py* ](1_liczby_pierwsze/czypierwsza.py)                      			| Sprawdzanie czy liczba jest liczbą pierwszą   										|
+| [ *2_liczby_doskonale/czydoskonala.py* ](2_liczby_doskonale/czydoskonala.py)                 				| Sprawdzanie czy liczba jest liczbą doskonałą                                          |
+| [ *3_roklad_na_czynniki/rozkl.py* ](3_roklad_na_czynniki/rozkl.py)                      					| Rozkład liczby na czynniki pierwsze                                          			|
+| [ *4_algorytm_euklidesa/iteracyjnie/euklidit.py* ](4_algorytm_euklidesa/iteracyjnie/euklidit.py)      	| Algorytm euklidesa iteracyjnie                                                        |
+| [ *4_algorytm_euklidesa/rekurencyjnie/euklidrek.py* ](4_algorytm_euklidesa/rekurencyjnie/euklidrek.py)    | Algorytm euklidesa rekurencyjnie                                                      |
+| [ *5_ciag_fibbonaciego/iteracyjnie/fiboit.py* ](5_ciag_fibbonaciego/iteracyjnie/fiboit.py)				| Ciąg fibbonaciego iteracyjnie															|
+| [ *5_ciag_fibbonaciego/rekurencyjnie/fiborek.py* ](5_ciag_fibbonaciego/rekurencyjnie/fiborek.py)			| Ciąg fibbonaciego iteracyjnie															|
+| [ *6_wydawanie_reszty/reszta.py* ](6_wydawanie_reszty/reszta.py)											| Wydawanie reszty metodą zachłanną														|
+| [ *funkcja_eulera/euler.py* ](funkcja_eulera/euler.py)													| Dodatek: Implementacja funcji eulera, element algorytmu RSA							|
 
 Jeśli w jakimś folderze znajdziesz plik *test.py* to jest to plik automatycznie testujący algorytm korzystając ze zbioru testowego w pliku .txt
 
