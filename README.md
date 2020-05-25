@@ -50,7 +50,7 @@ Zagadnienia wg. wymagań umieszczonych na stronach 110 - 114 książki ["Tom 6 E
 
 | Nazwa folderu                                         | Zagadnienie                                                                           |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------|
-| *1_liczby_pierwsze/czypierwsza.py*                    | Sprawdzanie czy liczba jest liczbą pierwszą                                           |
+| (*1_liczby_pierwsze/czypierwsza.py*)[1_liczby_pierwsze/czypierwsza.py]                    | Sprawdzanie czy liczba jest liczbą pierwszą                                           |
 | *2_liczby_doskonale/czydoskonala.py*                  | Sprawdzanie czy liczba jest liczbą doskonałą                                          |
 | *3_roklad_na_czynniki/rozkl.py*                       | Rozkład liczby na czynniki pierwsze                                          			|
 | *4_algorytm_euklidesa/iteracyjnie/euklidit.py*        | Algorytm euklidesa iteracyjnie                                                        |
