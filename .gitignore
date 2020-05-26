@@ -1,1 +1,5 @@
 rsa
+gen.py
+newTable.md
+TABLE_CONF.json
+.genignore
