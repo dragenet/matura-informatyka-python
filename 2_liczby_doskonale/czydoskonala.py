@@ -10,7 +10,7 @@ def czyDoskonala(n):
 	else:
 		return False
 
-if __name__ == "__main__":
+if __name__ == '__main__':
 	
 	l = int(input("Podaj liczbę: "))
 

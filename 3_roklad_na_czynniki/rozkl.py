@@ -13,9 +13,10 @@ def rozkl(n):
 
 	return c
 
+if __name__ == '__main__':
+	
+	l = int( input("Podaj liczbę: "))
+	print( "Czynniki to: " )
 
-l = int( input("Podaj liczbę: "))
-print( "Czynniki to: " )
-
-for i in rozkl(l):
-	print(i, "	")
+	for i in rozkl(l):
+		print(i, "	")

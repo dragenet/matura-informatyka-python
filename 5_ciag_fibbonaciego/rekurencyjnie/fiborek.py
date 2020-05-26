@@ -18,7 +18,8 @@ def fiborek( n, a = 0, b = 1 ):
 		
 	
 
-if __name__ == "__main__":
+if __name__ == '__main__':
+
 	l = int( input( "Podaj liczbę wyrazów ciągu fibbonaciego: ") )
 	res = fiborek(l)
 

@@ -14,5 +14,7 @@ def tocjent(n):
 			c+=1
 	return c
 
-l = int( input("Podaj liczbę: ") )
-print(tocjent(l))
+if __name__ == '__main__':	
+
+	l = int( input("Podaj liczbę: ") )
+	print(tocjent(l))

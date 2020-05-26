@@ -6,9 +6,11 @@ def euklidit( a, b ):
 	return a
 
 
-l = int( input("Podaj pierwszą liczbę: ") )
-m = int( input("Podaj drugą liczbę: ") )
+if __name__ == '__main__':
+	
+	l = int( input("Podaj pierwszą liczbę: ") )
+	m = int( input("Podaj drugą liczbę: ") )
 
-d = euklidit( l, m )
+	d = euklidit( l, m )
 
-print( "Ich NWD to: ", d )
+	print( "Ich NWD to: ", d )

@@ -7,10 +7,11 @@ def euklidrek( a, b ):
 
 	return euklidrek( b, c )
 
+if __name__ == '__main__':
 
-l = int( input("Podaj pierwszą liczbę: ") )
-m = int( input("Podaj drugą liczbę: ") )
+	l = int( input("Podaj pierwszą liczbę: ") )
+	m = int( input("Podaj drugą liczbę: ") )
 
-d = euklidrek( l, m )
+	d = euklidrek( l, m )
 
-print( "Ich NWD to: ", d )
+	print( "Ich NWD to: ", d )

@@ -20,6 +20,7 @@ def reszta( n ):
 
 
 if __name__ == '__main__':
+
 	l = int( input( "Podaj liczbę: " ) )
 	res = reszta( l )
 
