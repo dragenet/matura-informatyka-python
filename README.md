@@ -63,6 +63,8 @@ Zagadnienia wg. wymagań umieszczonych na stronach 110 - 114 książki ["Tom 6 E
 | [ *8_sortowanie_babelkowe/boublesort.py* ](8_sortowanie_babelkowe/boublesort.py)                                           | Sortowanie algorytmem sortowania bąbelkowego                             |
 | [ *9_sortowanie_przez_wstawianie/binarne/insertsortbin.py* ](9_sortowanie_przez_wstawianie/binarne/insertsortbin.py)       | Sortowanie przez wstawianie binarne                                      |
 | [ *9_sortowanie_przez_wstawianie/liniowe/insertsort.py* ](9_sortowanie_przez_wstawianie/liniowe/insertsort.py)             | Sortowanie przez wstawianie liniowe                                      |
+| [ *10_sortowanie_przez_scalanie/mergesort.py* ](10_sortowanie_przez_scalanie/mergesort.py)                                 | Sortowanie przez scalanie                                                |
+| [ *11_sortowani_szybkie/quicksort.py* ](11_sortowani_szybkie/quicksort.py)                                                 | Sortowanie szybkie                                                       |
 | [ *funkcja_eulera/euler.py* ](funkcja_eulera/euler.py)                                                                     | Dodatek: Implementacja funcji funkcja eulera                             |
 
 Jeśli w jakimś folderze znajdziesz plik *test.py* to jest to plik automatycznie testujący algorytm korzystając ze zbioru testowego w pliku .txt
